@@ -1,4 +1,4 @@
-# React Js sidebar responsive
+# React Js UI polling app with sidebar responsive
 
 Clone the project and run:
 
